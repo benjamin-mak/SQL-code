@@ -1,5 +1,5 @@
 /*
-Codeacademy - design databases
+Codecademy - design databases
 Build a menu for bytes of china solution
 */
 
