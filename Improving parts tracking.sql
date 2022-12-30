@@ -1,5 +1,5 @@
 /*
-Codeacademy - design databases
+Codecademy - design databases
 Improving parts tracking solutions
 */
 
