@@ -1,5 +1,5 @@
 /* 
-Codeacademy - Design databases with Postgresql
+Codecademy - Design databases with Postgresql
 Intermediate book store indexes project solutions
 */
 
