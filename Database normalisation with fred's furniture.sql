@@ -1,5 +1,5 @@
 /*
-Codeacademy - Design databases with Postgresql
+Codecademy - Design databases with Postgresql
 Database normalisation at Fred's furniture solutions
 */
 -- Would move columns customer_id, customer_phone, customer_email, item_1_price, item_2_price,item_3_price to separate tables
